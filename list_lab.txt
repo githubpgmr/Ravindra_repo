@@ -1,0 +1,31 @@
+1)x=[23,56,81]
+find the max number from the list
+2)x=["Hello","help","Held"]
+Find the minimum value
+3) x=[23.67,76.21,89,900,56.3]
+reverse the list
+4)Arrange the above(Q.3) list in descending order.
+5) x=[12,54,98,"help",[12,45,78,['hello','world']]]
+write a program to print 78 and 'world'
+6)Replace 45(Q.5) with 'PYTHON'
+7)write a program to add "CDAC","Noida" as two elements 
+at the end of the list
+sample: [12,34,67,32]
+output: [12,34,67,32,"CDAC","NOIDA"]
+8)write a program to add a new list in the existing list
+sample: [12,34,67,32]
+output: [12,34,67,32,["CDAC","NOIDA"]]
+9)wite a program to find the index number of the third
+ occurence of 'zara'
+sample:
+10)In the above list, insert a new item(i.e ABC) at index 4.
+
+
+
+
+
+
+
+
+
+
